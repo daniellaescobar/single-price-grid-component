@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc)
-- Live Site URL: [Add live site URL here](https://daniellaescobar.github.io/single-price-grid-component/)
+- Solution URL: [Challenge](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc)
+- Live Site URL: [My Solution](https://daniellaescobar.github.io/single-price-grid-component/)
 
 ## My process
 
